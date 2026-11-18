@@ -1,0 +1,25 @@
+{
+  "server": "changjiang",
+  "base_url": "",
+  "sessionid": "",
+  "csrftoken": "",
+  "course_filter": [],
+  "scan_interval_seconds": 45,
+  "poll_interval_seconds": 12,
+  "notify_mac": true,
+  "notify_sound": "Glass",
+  "copy_answer_clipboard": true,
+  "push": {
+    "bark_url": "",
+    "serverchan_sendkey": "",
+    "wecom_webhook": ""
+  },
+  "llm": {
+    "base_url": "https://api.deepseek.com/v1",
+    "api_key": "",
+    "model": "deepseek-chat",
+    "vision_model": "",
+    "timeout_seconds": 45,
+    "subjective_max_chars": 60
+  }
+}
