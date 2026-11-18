@@ -24,7 +24,7 @@
 macOS / Linux，Python 3.9+：
 
 ```bash
-git clone https://github.com/<you>/yuketang-sentinel.git
+git clone https://github.com/JynnaiSanlya/yuketang-sentinel.git
 cd yuketang-sentinel
 pip3 install --user -r requirements.txt
 ```
